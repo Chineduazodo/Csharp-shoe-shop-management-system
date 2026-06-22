@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\obj\Debug\net8.0\ShoeShopConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\obj\Debug\net8.0\ShoeShopConsoleApp.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\obj\Debug\net8.0\ShoeShopConsoleApp.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\obj\Debug\net8.0\ShoeShopConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\obj\Debug\net8.0\ShoeShopConsoleApp.sourcelink.json
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\bin\Debug\net8.0\ShoeShopConsoleApp.exe
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\bin\Debug\net8.0\ShoeShopConsoleApp.deps.json
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\bin\Debug\net8.0\ShoeShopConsoleApp.runtimeconfig.json
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\bin\Debug\net8.0\ShoeShopConsoleApp.dll
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\bin\Debug\net8.0\ShoeShopConsoleApp.pdb
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\obj\Debug\net8.0\ShoeShopConsoleApp.dll
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\obj\Debug\net8.0\refint\ShoeShopConsoleApp.dll
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\obj\Debug\net8.0\ShoeShopConsoleApp.pdb
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\obj\Debug\net8.0\ShoeShopConsoleApp.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ShoeShopConsoleApp-study\ShoeShopConsoleApp\obj\Debug\net8.0\ref\ShoeShopConsoleApp.dll
